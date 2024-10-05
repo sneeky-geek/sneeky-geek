@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Sharad SR
-- 🌱 I’m currently learning MERN STACK
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
-- insta:@sharad_sr_77 
+- 🌱 I’m currently learning MERN STACK 
 - 😄 Pronouns: He/HIM
 
 <!---
