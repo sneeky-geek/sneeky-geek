@@ -5,6 +5,7 @@
 ---
 
 ### 🛠 About Me
+-WINNER and FINALIST at multiple hackathons
 - 🎓 Pursuing **Information Science & Engineering** at **Siddaganga Institute of Technology**
 - 💻 Passionate about **DSA**, **Web Development**, and **Machine Learning**
 - 🏆 Participating in **CodeChef Contests** 
